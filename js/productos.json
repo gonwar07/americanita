@@ -1,0 +1,35 @@
+[
+    {
+        "prod_id": 1,
+        "nombre": "BORCEGOS",
+        "precio": "$. 5.500",
+        "imagen": "https://i.pinimg.com/564x/b3/1d/de/b31dded21219d3f78fd4ade397caac5f.jpg",
+        "descripcion": "Borcegos alpinos en caña savage temporada 2020",
+        "talle": "numero"
+    },
+    {
+        "prod_id": 2,
+        "nombre": "PANTALÓN",
+        "precio": "$. 3.500",
+        "imagen": "https://i.pinimg.com/564x/32/c5/33/32c533ba7934a3d932d567310070ed10.jpg",
+        "descripcion": "Jean mujer super slim elastizado azul gastado. Tiro: alto.",
+        "talle": "numero"
+    },
+    {
+        "prod_id": 3,
+        "nombre": "REMERA",
+        "precio": "$. 1.800",
+        "imagen": "https://i.pinimg.com/236x/4c/06/cf/4c06cfdda52303824d99ca4f0b97a97d.jpg",
+        "descripcion": "Remera mujer rayada. 100% algodón.",
+        "talle": "letra"
+    },
+    {
+        "prod_id": 4,
+        "nombre": "CAMPERA",
+        "precio": "$. 8.800",
+        "imagen": "https://i.pinimg.com/564x/e2/54/05/e254053979dd17c59eb183f870a64956.jpg",
+        "descripcion": "Campera mujer ecocuero. Color: negro",
+        "talle": "letra"
+    }
+
+]
